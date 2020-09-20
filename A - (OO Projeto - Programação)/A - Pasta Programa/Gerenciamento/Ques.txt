@@ -1,7 +1,0 @@
-Q1-Curiosidades-1-Qual é o carro mais rápido do mundo?-FORMU-Anderson-[0, 0, 0]-3
-Q2-Matemática-1-1+1=-2-Anderson-[0, 0, 0]-3
-Q3-Matemática-1-2+6=-8-Anderson-[0, 0, 0]-3
-Q4-Matemática-1-3+1=-2-Felipe-[0, 0, 0]-3
-Q5-Comutação-1-Como é o funcionamento do STP?-Qualquer coisa-Anderson-[0, 0, 0]-3
-Q6-Computação-1-Quantos Mbs está incluso em um Gb?-1024-Anderson-[0, 0, 0]-3
-Q7-Fds-1-Olá?-Olá!-Anderson-[0, 0, 0]-3

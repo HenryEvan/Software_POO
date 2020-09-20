@@ -1,3 +1,0 @@
-Questões-['Q1']
-Anderson-['Q2']
-Felipe-['Q4','Q6']
