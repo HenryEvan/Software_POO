@@ -1,0 +1,28 @@
+matérias e professores:
+
+None - Prof
+matemática - prof
+portugués - prof(nome)
+
+--------------
+questões:
+
+indice_questão(n) - recomendação(mat) - abertaoufechada(n) - pergunta - respostas - professordono(nome) - atribuições(1,1,1) - situação(aprov,repro,?)
+
+--------------
+histórico de provas:
+
+indice_prova - materia(mat) - indice_questões usadas(n) - respostas(n)
+
+--------------
+lista de questões:
+
+indices de todas as questões(n)
+
+--------------
+lista de exercícios ou provas:
+
+nomeprovaex(nome) - tipo(ex ou prov) - prof(nome) - questões(n)
+
+
+# ferramentas administrativas caso necessárias: start arquivos.
