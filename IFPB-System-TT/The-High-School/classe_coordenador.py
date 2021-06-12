@@ -207,5 +207,3 @@ class Coordenador:
     def get_nome():
         return __nome
 
-# Felipe não esquece de implementar os sets e gets nos nomes dos métodos.
-# Não esquece também de implementar o arquivo X de '\A - Pasta Programa\Gerenciamento': para os métodos do coordenador: cadastrar_discipl e avaliador.
